@@ -11,7 +11,7 @@ title                    : " Science matters"
 title_separator          : "-"
 name                     : "Florencia Iulita"
 description              : "My personal website."
-url                      : "http://florenciaiulita.me" # "http://localhost:4000" #
+url                      : "http://florenciaiulita.me" #"http://localhost:4000"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "florenciaiulita/florenciaiulita"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ author:
   bio              : "Vascular neuroscientist working to fight dementia"
   location         : "Montreal, Canada"
   email            : "florencia.iulita@gmail.com"
-  uri              : "www.florenciaiulita.me"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
