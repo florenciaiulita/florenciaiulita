@@ -11,7 +11,8 @@ title                    : " Science matters"
 title_separator          : "-"
 name                     : "Florencia Iulita"
 description              : "My personal website."
-url                      : "http://florenciaiulita.me" #"http://localhost:4000"
+url                      : "http://florenciaiulita.me"
+#url                     : # "http://localhost:4000"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "florenciaiulita/florenciaiulita"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -70,9 +71,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-84484122-1"
 
 
 # Site Author
@@ -111,6 +112,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
