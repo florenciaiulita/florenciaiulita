@@ -1,0 +1,8 @@
+- Subsection en Funding: research support & travel awards
+- Icono para recognitions? Ordenar por anio?
+- Recognitions agregar premio de tesis
+
+- Espaciado de subtitulos 1em up down
+- Logos para funding
+- Foto nueva
+- Link a todos los posts
